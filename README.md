@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+ ![preview]([./img/view.png](https://raw.githubusercontent.com/daweedkob/daweedkob/main/contributions.svg))
 <!--
 **KimSpeer/KimSpeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
